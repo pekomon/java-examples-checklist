@@ -22,6 +22,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+.idea
+*.iml
 
 # Created by https://www.gitignore.io/api/linux,intellij
 # Edit at https://www.gitignore.io/?templates=linux,intellij
