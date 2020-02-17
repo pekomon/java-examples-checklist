@@ -1,11 +1,9 @@
-package patterns;
+package com.example.patterns.builder;
 
 import java.util.ArrayList;
 import java.util.List;
 
 class JavaElement {
-
-    private static final int INDENT = 4;
 
     public String type, name;
 

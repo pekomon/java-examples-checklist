@@ -1,4 +1,4 @@
-package patterns;
+package com.example.patterns.builder;
 
 /**
  * Fluent builder propagating through inheritance hierarchy using recursive generic definition.
